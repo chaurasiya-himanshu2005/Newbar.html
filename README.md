@@ -1,8 +1,8 @@
-Newbar-HTML
+Navbar-HTML
 A clean and responsive sidebar navigation component built using HTML and CSS.
 
 About
-This project demonstrates how to create a structured Newbar layout using semantic HTML and basic CSS styling. It can be reused in dashboards, admin panels, or portfolio websites.
+This project demonstrates how to create a structured Navbar layout using semantic HTML and basic CSS styling. It can be reused in dashboards, admin panels, or portfolio websites.
 
 Built With
 HTML5
